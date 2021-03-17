@@ -119,8 +119,8 @@ chkconfig nginx on
 cd /usr/share/nginx/html
 chmod o+w /usr/share/nginx/html
 rm index.html
-wget https://raw.githubusercontent.com/awsdevopsteam/ngniex/master/index.html
-wget https://raw.githubusercontent.com/awsdevopsteam/ngniex/master/ryu.jpg
+wget https://raw.githubusercontent.com/YY4411/AWS-Hands-on/main/nginex/index.html
+wget https://raw.githubusercontent.com/YY4411/AWS-Hands-on/main/nginex/cikolata.jpg
 service nginx start
 
 
